@@ -1,0 +1,14 @@
+{
+	"name": "com.ixlab.test",
+	"displayName": "IXLAB test package",
+	"version": "0.0.1",
+	"unity": "2021.3",
+	"author": "IXLAB",
+	"description": "Test Package for git",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DanielZeidler/PackageTest.git"
+	}
+}
